@@ -33,6 +33,7 @@ This is a working OpenCore EFI setup for the **HP 15-da0326tu** laptop running *
 
 - **WiFi**: Realtek 8723DE is not supported in macOS. Replace with a compatible Broadcom card (e.g., DW1560) or use a USB WiFi adapter.
 - **HDMI**: No output, not functional at all.
+- Anything else? Let me know!
 
 ## ⚠️ Notes
 
