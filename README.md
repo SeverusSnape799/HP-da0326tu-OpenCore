@@ -1,4 +1,5 @@
 # OpenCore EFI for HP 15-da0326tu (i3-7100U / HD 620)
+# Using OpenCore Version 0.9.5
 
 This is a working OpenCore EFI setup for the **HP 15-da0326tu** laptop running **macOS Ventura**. Should work with Monterey and Big Sur with minimal adjustments.
 
